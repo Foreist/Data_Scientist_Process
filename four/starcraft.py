@@ -17,7 +17,6 @@ class Unit:
             print(self.name + ' 유닛은 전사했습니다. ㅠㅠ')
         # return self.energy
 
-
 # 테란 종족 클래스
 class Terran(Unit):
     def get_tribe(self):
@@ -26,7 +25,6 @@ class Terran(Unit):
     def be_attactted(self):
         self.energy -= 3
 
-
 # 프로토스 종족 클래스
 class Protoss(Unit):
     def get_tribe(self):
@@ -34,7 +32,6 @@ class Protoss(Unit):
 
     def be_attactted(self):
         self.energy -= 2
-
 
 # 저그 종족 클래스
 class Zerg(Unit):
