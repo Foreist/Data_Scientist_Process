@@ -6,10 +6,10 @@ class 틀:
     단가 = 0
 
     # def __init__(self, 모양, 반죽, 앙꼬, 단가):
-    #     self.모양 = 모양
-    #     self.반죽 = 반죽
-    #     self.앙꼬 = 앙꼬
-    #     self.단가 = 단가
+        # self.모양 = 모양
+        # self.반죽 = 반죽
+        # self.앙꼬 = 앙꼬
+        # self.단가 = 단가
 
     def 굽기(self, 주문갯수):
         # 한 번에 최대 10개.
