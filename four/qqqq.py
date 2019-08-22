@@ -1,4 +1,3 @@
-#
 # 실습2. (김재경, 김태웅)
 import random as r
 
