@@ -1,4 +1,4 @@
-﻿Id	DocNumber	MetadataSubject	MetadataTo	MetadataFrom	SenderPersonId	MetadataDateSent	MetadataDateReleased	MetadataPdfLink	MetadataCaseNumber	MetadataDocumentClass	ExtractedSubject	ExtractedTo	ExtractedFrom	ExtractedCc	ExtractedDateSent	ExtractedCaseNumber	ExtractedDocNumber	ExtractedDateReleased	ExtractedReleaseInPartOrFull	ExtractedBodyText	RawText						
+﻿1Id	DocNumber	MetadataSubject	MetadataTo	MetadataFrom	SenderPersonId	MetadataDateSent	MetadataDateReleased	MetadataPdfLink	MetadataCaseNumber	MetadataDocumentClass	ExtractedSubject	ExtractedTo	ExtractedFrom	ExtractedCc	ExtractedDateSent	ExtractedCaseNumber	ExtractedDocNumber	ExtractedDateReleased	ExtractedReleaseInPartOrFull	ExtractedBodyText	RawText						
 1	C05739545	WOW	H	"Sullivan, Jacob J"	87	2012-09-12T04:00:00+00:00	2015-05-22T04:00:00+00:00	DOCUMENTS/HRC_Email_1_296/HRCH2/DOC_0C05739545/C05739545.pdf	F-2015-04841	HRC_Email_296	FW: Wow		"Sullivan, Jacob J <Sullivan11@state.gov>"		"Wednesday, September 12, 2012 10:16 AM"	F-2015-04841	C05739545	05/13/2015	RELEASE IN FULL		"UNCLASSIFIED
 U.S. Department of State
 Case No. F-2015-04841
