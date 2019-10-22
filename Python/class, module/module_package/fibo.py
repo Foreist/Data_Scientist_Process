@@ -10,6 +10,8 @@ def fib(n):
         a, b = b, a+b
     print()
 
+a = int(input('plz input n = '))
+fib(a)
 
 def fib2(n):
     '''
